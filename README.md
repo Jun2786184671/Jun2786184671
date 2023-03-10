@@ -1,1 +1,1 @@
-![](./jellyfish.jpg)
+![](./jellyfish.gif)
